@@ -215,7 +215,7 @@ simulation_alpha_25 = DataFrame(
 
 serialize("simulation_alpha_25.jls", simulation_alpha_25)
 
-#====================================== 🔬 Esimate Alpha 🔬 ======================================#
+#====================================== 🔬 Estimate Alpha 🔬 ======================================#
 using Turing
 using StatsPlots
 using Random
